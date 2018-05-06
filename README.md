@@ -33,7 +33,7 @@ We are using [pchart](http://www.pchart.net/) in our notebook. Pchart requires y
 
 ```$ sudo apt-get install freetype*``` <-- this wildcard is here to install the tools and the demos
 
-Pchart uses UTF8 functions to correct the output. Only not all php functions that help with UTF8 are in php 7.0 so to get the old php 5 functions working as well we neet to also install this extension.
+Pchart uses UTF8 functions to correct the output. Only not all php functions that help with UTF8 are in php 7.0 So we need to get the old php 5 functions working as well. So we neet to install this extension as well.
 
 ```$ sudo apt-get install php7.0-xml``` <-- UTF8 functions from php 5
 
