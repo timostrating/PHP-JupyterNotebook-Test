@@ -19,7 +19,7 @@ This is a quick test to see if i can get a PHP kernel working in Jupyter.
 
 ## Windows 10
 I did not got it working on my windows machine. I will update this readme as soon as I do get it working. 
-It has to do with the php ZMQ extension that needs to be manualy installed on windows.
+It has to do with the php ZMQ extension that needs to be manualy installed on windows. (Stackoverflow is telling me that you should download the dll versions of the extension you want to install. This dll should than be moved in your php installation folder. After moving the file there you should also add it to your php.ini file to make it really working. )
 
 
 
